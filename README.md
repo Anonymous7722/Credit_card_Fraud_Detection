@@ -38,7 +38,6 @@ The model was evaluated using standard classification metrics and performed well
    pip install scikit-learn
    pip install streamlit
    pip install pandas
-   
    ```  
 4. Run the notebook: `python3 -m streamlit run app.py`
 
