@@ -27,7 +27,10 @@ The dataset contains credit card transactions made in September 2013 by European
 The model was evaluated using standard classification metrics and performed well in detecting fraud cases, considering the imbalanced nature of the dataset.
 
 ## 🖼️ Screenshots
-> Add relevant screenshots here (data exploration, model training, confusion matrix, etc.)
+![image](https://github.com/user-attachments/assets/22a6435e-84a1-49e0-895c-00b34ee99452)
+![image](https://github.com/user-attachments/assets/b5a528e1-80e9-4f48-85bf-a55b3c212ed2)
+
+
 
 
 ## 🚀 How to Run
